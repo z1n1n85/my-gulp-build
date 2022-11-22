@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/z1n1n85/my-gulp-build/issues"
   },
-  "homepage": "https://github.com/z1n1n85/my-gulp-build#readme"
+  "homepage": "https://github.com/z1n1n85/my-gulp-build#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
