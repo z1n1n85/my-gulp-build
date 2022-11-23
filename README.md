@@ -9,27 +9,27 @@
 
 Структура проектов:
 
-- Project folder/
--  ├─── dist/
--  |     ├─── media/
--  |     |     ├─── _images_/
--  |     |     └─── _fonts_/
--  |     ├─── js/
--  |     |     ├─── _code.js_
--  |     |     └─── code.min.js
--  |     ├─── index.html
--  |     └─── main.min.css
--  └─── src/
--        ├─── media/
--        |     ├─── _images_/
--        |     └─── _fonts_/
--        ├─── js/
--        |     └─── code.js
--        ├─── scss/
--        |     ├─── _blocks_/
--        |     ├─── _modifications_/
--        |     └─── main.scss
--        └─── index.html
+Project folder/
+ ├─── dist/
+ |     ├─── media/
+ |     |     ├─── _images_/
+ |     |     └─── _fonts_/
+ |     ├─── js/
+ |     |     ├─── _code.js_
+ |     |     └─── code.min.js
+ |     ├─── index.html
+ |     └─── main.min.css
+ └─── src/
+       ├─── media/
+       |     ├─── _images_/
+       |     └─── _fonts_/
+       ├─── js/
+       |     └─── code.js
+       ├─── scss/
+       |     ├─── _blocks_/
+       |     ├─── _modifications_/
+       |     └─── main.scss
+       └─── index.html
 
 Примечания:
 - index.html обращается к main.min.css
