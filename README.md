@@ -12,22 +12,22 @@
     Project folder/
      ├─── dist/
      |     ├─── media/
-     |     |     ├─── _images_/
-     |     |     └─── _fonts_/
+     |     |     ├─── images/
+     |     |     └─── fonts/
      |     ├─── js/
-     |     |     ├─── _code.js_
+     |     |     ├─── code.js
      |     |     └─── code.min.js
      |     ├─── index.html
      |     └─── main.min.css
      └─── src/
            ├─── media/
-           |     ├─── _images_/
-           |     └─── _fonts_/
+           |     ├─── images/
+           |     └─── fonts/
            ├─── js/
            |     └─── code.js
            ├─── scss/
-           |     ├─── _blocks_/
-           |     ├─── _modifications_/
+           |     ├─── blocks/
+           |     ├─── modifications/
            |     └─── main.scss
            └─── index.html
 
